@@ -19,12 +19,11 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "EzaBotz-Mdོ" //namabot kalian
-global.ownername= "Reza Ganteng ×፝֟͜×
-wa.me/6289606790112 " //nama kalian
+global.ownername= "Reza Ganteng ×፝֟͜×" //nama kalian
 global.myweb = "https://github.com/Rezaofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCoUIE95oCiyo_Ps0l9rhcdw" //bebas asal jan hapus
 global.github = "https://github.com/Rezaofc" //bebas
-global.email = "nb.boruto.official@gmail.com" //bebas
+global.email = "nb.boruto.official@gmail.com","animelovendsgurachan@gmail.com //bebas
 global.region = "Japanese" //bebas
 global.ownernomer = "+6289606790112" // nomor wa kalian
 global.ownernomerr = "+6289606790112" //nmr wa kalian
